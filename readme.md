@@ -8,6 +8,7 @@
 * **Minor:** `Visual Interface Design`
 * **Favoriete dier:** `Zeeotters zijn te gek!`
 * **Startniveau:** `blauw/rood/zwart`
+*  **Linkje:** https://lawrenceprins.github.io/generative-art/
 
 ## Concept
 

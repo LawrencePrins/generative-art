@@ -43,3 +43,6 @@ In deze week ben ik gaan nadenken over een concept. Dit heb ik gedaan door onder
 * `Link naar bron 1` Inspiratiebron: https://virus-simulation.glitch.me/
 * `Link naar bron 2`
 * `Link naar bron 3`
+
+## Inspiratie beelden
+

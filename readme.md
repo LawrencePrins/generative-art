@@ -45,4 +45,5 @@ In deze week ben ik gaan nadenken over een concept. Dit heb ik gedaan door onder
 * `Link naar bron 3`
 
 ## Inspiratie beelden
+![image](https://user-images.githubusercontent.com/55742904/114785641-44762b80-9d7d-11eb-9c8d-416646ec7062.png)
 

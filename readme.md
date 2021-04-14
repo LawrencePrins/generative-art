@@ -19,9 +19,9 @@ Door middel van user-input kan de gebruiker het scherm draaien zodat het random 
 ## Features
 `Wat zijn de features in het project dat je gemaakt hebt? Waar kan ik op klikken? Waar zit de interactie?`
 `Versie 1`
-Compleet scherm is 360graden te draaien (door middel van een click and hold mouse click)
-Eventueel reset knop
-Wanneer 't DVD-logo een hoek raakt vermenigvuldigd het aantal x2
+* Compleet scherm is 360graden te draaien (door middel van een click and hold mouse click)
+* Eventueel reset knop
+* Wanneer 't DVD-logo een hoek raakt vermenigvuldigd het aantal x2
 
 ## Onderzoek & inspiratie
 `Schrijf wat over je onderzoek en je inspiratie voor het project. Hoe kwam je concept tot stand?`

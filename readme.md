@@ -12,7 +12,7 @@
 
 ## Concept
 `Beschrijf in het algemeen je concept van je project.`
-`Versie 1`
+`Versie 1`<br>
 **Bouncing DVD-Logo but you control the screen.**
 Door middel van user-input kan de gebruiker het scherm draaien zodat het random bouncende DVD-logo een hoekpunt raakt. Wanneer de DVD-logo een hoek raakt, vermenigvuldigd het DVD-logo aantal x2. Hierdoor krijg je uiteindelijk een lange 'slang-like' ketting van 't DVD-logo, wat zorgt voor een artistiek beeld. Het concept kan gezien worden als een soort game.
 

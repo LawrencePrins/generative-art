@@ -3,11 +3,11 @@
 # Procesverslag
 
 ## Over
-* **Naam:** `voornaam + achternaam`
-* **Klas:** `vid-1/vid-2`
+* **Naam:** `Lawrence Prins`
+* **Klas:** `vid-2b`
 * **Minor:** `Visual Interface Design`
-* **Favoriete dier:** `Zeeotters zijn te gek!`
-* **Startniveau:** `blauw/rood/zwart`
+* **Favoriete dier:** `🐔`
+* **Startniveau:** `Rood`
 *  **Linkje:** https://lawrenceprins.github.io/generative-art/
 
 ## Concept

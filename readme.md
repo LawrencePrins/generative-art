@@ -24,7 +24,7 @@ Door middel van user-input kan de gebruiker het scherm draaien zodat het random 
 * Wanneer 't DVD-logo een hoek raakt vermenigvuldigd het aantal x2
 
 ## Onderzoek & inspiratie
-`Schrijf wat over je onderzoek en je inspiratie voor het project. Hoe kwam je concept tot stand?`
+`Schrijf wat over je onderzoek en je inspiratie voor het project. Hoe kwam je concept tot stand?`<br>
 Door het project van 'Caroline' https://virus-simulation.glitch.me/ ben ik op mijn eigen concept gekomen. In het concept zijn er meerdere 'viruscellen' te zien die bouncen wanneer deze de zijkant van een scherm aanraakt. Dit deed mij al gauw denken aan het bouncende DVD-logo. Vervolgens wou ik hier een game-aspect aangeven. Wat het DVD-logo interessant maakt is dat het erom bekend staat dat het een 'episch' moment is wanneer het logo precies in het hoekje van het scherm beland. Toen dacht ik, wat nou als je het scherm kan bewegen zodat het random bouncende logo precies elke keer in het hoekje van het scherm belandt. Door de gebruiker te belonen door het logo te laten vermendigvuldigen, 
 geef ik de gebruiker het gevoel om verder te spelen en een zo lang mogelijke DVD-logo ketting te maken. Hierdoor is het niet alleen een leuk interactief spelletje maar wordt het ook visueel aantrekkelijk/interessant. 
 

@@ -7,7 +7,7 @@
 * **Klas:** `vid-2b`
 * **Minor:** `Visual Interface Design`
 * **Favoriete dier:** `🐔`
-* **Startniveau:** `Rood`
+* **Startniveau:** `Blue`
 *  **Linkje:** https://lawrenceprins.github.io/generative-art/
 
 ## Concept

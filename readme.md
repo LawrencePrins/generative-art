@@ -40,7 +40,6 @@ In deze week ben ik gaan nadenken over een concept. Dit heb ik gedaan door onder
 `Wat heb je gedaan? Wat ging goed? Wat kon beter?`
 
 ## Bronnenlijst
-* `Link naar bron 1`
-* Inspiratiebron: https://virus-simulation.glitch.me/
+* `Link naar bron 1` Inspiratiebron: https://virus-simulation.glitch.me/
 * `Link naar bron 2`
 * `Link naar bron 3`

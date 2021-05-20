@@ -38,8 +38,7 @@ Door gebruik te maken van de gyroscope op de telefoon kan de gebruiker verschill
 
 ## Onderzoek & inspiratie 
 `Schrijf wat over je onderzoek en je inspiratie voor het project. Hoe kwam je concept tot stand? (niet gekozen)`<br>
-Door het project van 'Caroline' https://virus-simulation.glitch.me/ ben ik op mijn eigen concept gekomen. In het project van Caroline zijn er meerdere 'viruscellen' te zien die bouncen wanneer deze de zijkant van een scherm aanraakt. Dit deed mij al gauw denken aan het bouncende DVD-logo. Vervolgens wou ik hier een game-aspect aan geven. Wat het DVD-logo interessant maakt is dat het erom bekend staat dat het een 'episch' moment is wanneer het logo precies in het hoekje van het scherm beland.<br><br>Toen dacht ik, wat nou als je het scherm kan bewegen zodat het random bouncende logo precies elke keer in het hoekje van het scherm belandt. Door de gebruiker te belonen door het logo te laten vermendigvuldigen, 
-geef ik de gebruiker het gevoel om verder te spelen en een zo lang mogelijke DVD-logo ketting te maken. Hierdoor is het niet alleen een leuk interactief spelletje maar wordt het ook visueel aantrekkelijk/interessant. 
+Door het project van 'Caroline' https://virus-simulation.glitch.me/ ben ik op mijn eigen concept gekomen. In het project van Caroline zijn er meerdere 'viruscellen' te zien die bouncen wanneer deze de zijkant van een scherm aanraakt. Dit deed mij al gauw denken aan het bouncende DVD-logo. Vervolgens wou ik hier een game-aspect aan geven. Wat het DVD-logo interessant maakt is dat het erom bekend staat dat het een 'episch' moment is wanneer het logo precies in het hoekje van het scherm beland.<br><br>Toen dacht ik, wat nou als je het scherm kan bewegen zodat het random bouncende logo precies elke keer in het hoekje van het scherm belandt. Door de gebruiker te belonen door het logo te laten vermendigvuldigen, geef ik de gebruiker het gevoel om verder te spelen en een zo lang mogelijke DVD-logo ketting te maken. Hierdoor is het niet alleen een leuk interactief spelletje maar wordt het ook visueel aantrekkelijk/interessant. 
 
 `Schrijf wat over je onderzoek en je inspiratie voor het project. Hoe kwam je concept tot stand? (niet gekozen)`<br>
 Ik heb mij verdiept in hoe een user op een interessante manier met het concept kan interacteren. Zo ben ik op het idee gekomen om door middel van rotatie van een mobile device het concept te laten bewegen. Doordat ik zelf de 'the new intimacy' zie als een periode waarin ik meer op mijn telefoon zit en spelletjes speel, leek het mij leuk om het concept daarom op de telefoon te plaatsen met een 'spel element'. Het idee achter dit concept is om een beetje brainless met je telefoon te spelen omdat ik zo de 'the new intimacy' voor mijzelf. Al gauw kwam het idee op een slang te besturen door middel van rotatie. Zo ben ik verder gaan kijken naar eventuele visuals op google en kwam ik de afbeeldingen tegen die onder aan staan. 
@@ -53,16 +52,16 @@ In deze week ben ik gaan nadenken over een concept. Dit heb ik gedaan door onder
 
 ### Week-2
 `Wat heb je gedaan? Wat ging goed? Wat kon beter?`
-In deze week heb ik besloten om het oude concept (DVD-logo) te schrappen. Het was te saai en niet interessant genoeg om naar te kijken en ook saai voor de user input. Ik ben in deze week verder gaan bainstormen over nieuwe concepten, waarin ik uiteindelijk al gauw op het nieuwe (gekozen) concept kwam. Vervolgens ben ik de p5.js web editor gaan pielen. Ik ben deze week direct gaan kijken hoe ik de gyroscope sensor kon aanspreken om bepaalde acties te laten uitvoeren. Dit heb ik in de p5.js web editor gedaan: https://editor.p5js.org/L4W/sketches/JcX7UrlBB (herkenning iOS device)
-https://editor.p5js.org/L4W/sketches/j8AO2d0Tw (een button toegevoegd om zo toegang te verlenen, met het resultaat hiervan)
+In deze week heb ik besloten om het oude concept (DVD-logo) te schrappen. Het was te saai en niet interessant genoeg om naar te kijken en ook saai voor de user input. Ik ben in deze week verder gaan bainstormen over nieuwe concepten, waarin ik uiteindelijk al gauw op het nieuwe (gekozen) concept kwam. Vervolgens ben ik de p5.js web editor gaan pielen. Ik ben deze week direct gaan kijken hoe ik de gyroscope sensor kon aanspreken om bepaalde acties te laten uitvoeren. Dit heb ik in de p5.js web editor gedaan: <br> https://editor.p5js.org/L4W/sketches/JcX7UrlBB (herkenning iOS device)<br>
+https://editor.p5js.org/L4W/sketches/j8AO2d0Tw (een button toegevoegd om zo toegang te verlenen, met het resultaat hiervan)<br>
 
 
 ### Week-3
 `Wat heb je gedaan? Wat ging goed? Wat kon beter?`
-In deze week heb ik geprobeerd om een motion ellipse te maken in de p5.js web editor. Na veel onderzoek en probeersels kwam ik uiteindelijk hier op. In deze week heb ik de ellipse kunnen maken die reageert op de rotatie, de kleur kunnen veranderen van de ellipse op basis van locatie en meerdere slangen kunnen toevoegen.
-https://editor.p5js.org/L4W/sketches/2KMZ59MfO (motion ellipse)
-https://editor.p5js.org/L4W/sketches/7qaw0N0Av (kleur verandering van ellipse)
-https://editor.p5js.org/L4W/sketches/xTmLAM7H3 (4 aparte slangen met andere rotationX en rotationY values)
+In deze week heb ik geprobeerd om een motion ellipse te maken in de p5.js web editor. Na veel onderzoek en probeersels kwam ik uiteindelijk hier op. In deze week heb ik de ellipse kunnen maken die reageert op de rotatie, de kleur kunnen veranderen van de ellipse op basis van locatie en meerdere slangen kunnen toevoegen.<br>
+https://editor.p5js.org/L4W/sketches/2KMZ59MfO (motion ellipse)<br>
+https://editor.p5js.org/L4W/sketches/7qaw0N0Av (kleur verandering van ellipse)<br>
+https://editor.p5js.org/L4W/sketches/xTmLAM7H3 (4 aparte slangen met andere rotationX en rotationY values)<br>
 
 ## Bronnenlijst
 * `Link naar bron 1` Inspiratiebron: https://virus-simulation.glitch.me/

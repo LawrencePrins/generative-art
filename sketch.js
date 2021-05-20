@@ -46,7 +46,6 @@ function setup() {
     textSize(32);
     textAlign(CENTER, TOP);
     text("Geen gyroscope gedetecteerd, open browser op telefoon", 0, 10, width);
-    permissionGranted = true;
   }
 }
 
@@ -58,7 +57,7 @@ function requestAccess() {
     } else {
       textSize(39);
       textAlign(CENTER, TOP);
-      text("Toegang geweigerd!", 0, 10, width);
+      text("Toegang geannuleerd! Sluit browser compleet af en probeer opnieuw", 0, 10, width);
     }
     // haalt button weg na het klikken
     button.remove();

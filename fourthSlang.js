@@ -1,8 +1,6 @@
 let x4, y4;
 
 function fourthSlang() {
-
-  
   if (on) {
     //rotationX, rotationY
     const dx = constrain(rotationX, -3, 3);

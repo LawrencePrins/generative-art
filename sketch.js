@@ -99,8 +99,6 @@ function mousePressed() {
     on = true;
   }
 }
- 
-
 
 function draw() {
   if (permissionGranted) {

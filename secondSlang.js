@@ -1,8 +1,6 @@
 let x2, y2;
 
 function secondSlang() {
-
-  
   if (on) {
     //rotationX, rotationY
     const dx = constrain(rotationX, -3, 3);

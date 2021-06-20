@@ -87,7 +87,8 @@ In deze weken heb ik vooral gekeken hoe ik het concept kon versterken. Daarom he
 
 Tot slot heb ik als extra ook een scherm ontwikkeld, voor wanneer de gebruiker het prototype opent op een desktop. Dit prototype is namelijk ontworpen voor mobile only en moet geopend worden op mobile om te kunnen werken. Zie het scherm hieronder:
 Ik heb voornamelijk in de p5js editor gewerkt, zodat ik (voor mijn gevoel) snel te werk kon gaan:
-https://editor.p5js.org/L4W/sketches/vYuYSWJ2z
+https://editor.p5js.org/L4W/sketches/vYuYSWJ2z<br>
+In tegenstelling tot de laatste oplevering heb ik dit keer ook een videopresentatie opgenomen die terug te vinden is op DLO. Hierin heb ik dit keer ook meer tijd ingestoken waarin ik duidelijk vertel over het concept werk en de live functie hiervan is ook te zien. 
 
 ![image](https://user-images.githubusercontent.com/55742904/122688472-a5f2c480-d21c-11eb-842d-9217d7c7e796.png)
 
@@ -102,7 +103,7 @@ https://editor.p5js.org/L4W/sketches/vYuYSWJ2z
 * `Link naar bron 8` Onderwerpen: https://p5js.org/
 * `Link naar bron 9` Pulsing ellipse: https://editor.p5js.org/enickles/sketches/BJFD1cuRQ
 * `Link naar bron 10` Snake inspiratie: https://editor.p5js.org/Viv-Galinari/sketches/H1FqlMT5Z
-* `Link naar bron 10` Audio input inspiratie voor beweging input:https://www.youtube.com/watch?v=q2IDNkUws-A&t=313s&ab_channel=TheCodingTrainTheCodingTrain
+* `Link naar bron 11` Audio input inspiratie voor beweging input:https://www.youtube.com/watch?v=q2IDNkUws-A&t=313s&ab_channel=TheCodingTrainTheCodingTrain
 
 ## Inspiratie beelden & eigen werk
 ![image](https://user-images.githubusercontent.com/55742904/122688705-29f97c00-d21e-11eb-9b52-a336724983fc.png)

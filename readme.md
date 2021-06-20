@@ -86,6 +86,8 @@ https://editor.p5js.org/L4W/sketches/xTmLAM7H3 (4 aparte slangen met andere rota
 In deze weken heb ik vooral gekeken hoe ik het concept kon versterken. Daarom heb ik eerst gebrainstormed over hoe ik het concept een doel kan geven, momenteel is het doelloos je telefoon bewegen. Toen ik eenmaal had gevonden namelijk; een puzzel waarbij de gebruiker erachter moet komen welke slang het snoepje op kan eten, kon ik gaan beginnen met coderen. Ik ben begonnen met het coderen van de tap functie waardoor de gebruiker een slang kan veranderen in een andere vorm. Toen dit eenmaal was gelukt heb ik mijn code geprobeerd op te schonen door aparte javascript files te maken voor de slangen, het snoepje en de algemene code. Vervolgens ben ik gaan onderzoeken hoe ik de grote van de slangen kon veranderen op basis van de snelheid van gyroscope. Uiteindelijk heb ik de laatste week mijn tijd besteed aan het maken van het snoepje. Dit was een erg lastig proces, maar het was uiteindelijk toch gelukt. 
 
 Tot slot heb ik als extra ook een scherm ontwikkeld, voor wanneer de gebruiker het prototype opent op een desktop. Dit prototype is namelijk ontworpen voor mobile only en moet geopend worden op mobile om te kunnen werken. Zie het scherm hieronder:
+Ik heb voornamelijk in de p5js editor gewerkt, zodat ik (voor mijn gevoel) snel te werk kon gaan:
+https://editor.p5js.org/L4W/sketches/vYuYSWJ2z
 
 ![image](https://user-images.githubusercontent.com/55742904/122688472-a5f2c480-d21c-11eb-842d-9217d7c7e796.png)
 

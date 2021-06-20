@@ -3,21 +3,19 @@ let x, y;
 function mainSlang() {
   if (on) {
     let foodLocation = food.revealLocation();
-
     let foodSize = food.revealSize();
     let foodWidth = foodSize.width;
     let foodHeight = foodSize.height;
     let foodX = foodLocation.x - foodWidth / 2;
     let foodY = foodLocation.y - foodHeight / 2;
-    let myWidth = 120;
-    let myHeight = 120;
+    let myWidth = 75;
+    let myHeight = 75;
     let myX;
     let myY;
     let myXend;
     let myYend;
     let foodXend = foodX + foodWidth;
     let foodYend = foodY + foodHeight;
-
     let foodDimensions = {
       topleft: { x: foodX, y: foodY },
       topright: { x: foodX + foodWidth, y: foodY },
@@ -26,8 +24,8 @@ function mainSlang() {
     };
 
     //rotationX, rotationY
-    const dx = constrain(rotationY, -4, 4);
-    const dy = constrain(rotationX, -4, 4);
+    const dx = constrain(rotationY, -3, 3);
+    const dy = constrain(rotationX, -3, 3);
     x += dx;
     y += dy;
 
@@ -54,26 +52,21 @@ function mainSlang() {
       foodDimensions.bottomleft.y <= snakeDimensions.bottomleft.y
     ) {
       food.foodLocation();
+      
     }
 
     // kleur change op basis van cx (bron: https://editor.p5js.org/L4W/sketches/ix5VBtvld)
-    let from = color(0, 150, 255, 40);
-    let to = color(90, 255, 50, 40);
+    let from = color(0, 255, 255, 60);
+    let to = color(255, 255, 0, 60);
     bg = map(x, 0, width, 0, 1);
     kleur = lerpColor(from, to, bg);
     fill(kleur);
     rect(myX, myY, myWidth, myHeight);
-  }
-    
-    
-    
-    
-    
-    
+  }    
    else {
     //rotationX, rotationY
-    const dx = constrain(rotationY, -4, 4);
-    const dy = constrain(rotationX, -4, 4);
+    const dx = constrain(rotationX, -3, 3);
+    const dy = constrain(rotationY, -3, 3);
     x += dx;
     y += dy;
     // zodat het binnen het scherm blijft
@@ -81,11 +74,11 @@ function mainSlang() {
     y = constrain(y, 0, height);
 
     // kleur change op basis van cx (bron: https://editor.p5js.org/L4W/sketches/ix5VBtvld)
-    let from = color(0, 150, 255, 40);
-    let to = color(90, 255, 50, 40);
+    let from = color(90, 255, 50, 60);
+    let to = color(0, 255, 255, 60);
     bg = map(x, 0, width, 0, 1);
     kleur = lerpColor(from, to, bg);
     fill(kleur);
-    ellipse(x, y, 60, 120);
+    rect(x-50, y-50, rotationX*10, 50);
   }
 }

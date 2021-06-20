@@ -18,6 +18,9 @@ function setup() {
   x3 = floor(random(width));
   y3 = floor(random(height));
   
+  x4 = floor(random(width));
+  y4 = floor(random(height));
+  
   food = new Food();
   food.setSize(25,25);
   food.create();
@@ -28,23 +31,23 @@ function setup() {
     typeof DeviceOrientationEvent.requestPermission == "function"
   ) {
     // ios 13+ device
-    background(65);
+    background(46, 46, 45);
     textSize(128);
     textAlign(CENTER,TOP);
     fill(255,255,255);
-    text("👋🏼Welkom!", 0, 100, width);
+    text("🧩Puzzel!", 0, 100, width);
     
     textSize(38);
     textAlign(CENTER, CENTER);
     fill(255,255,255);
-    text("Verzamel zoveel mogelijk snoepjes door je telefoon te bewegen!", width/2-600/2, 450, [600]);
+    text("Navigeer de juiste slangvorm naar het snoepje door je telefoon te bewegen!", width/2-645/2, 450, [645]);
    
         
     textSize(31);
     textAlign(CENTER, CENTER);
     fill(255,255,255);
     textStyle(ITALIC);
-    text("Tip: Tik om van vorm te veranderen", width/2-600/2, 575, [600]);
+    text("Tip: Tik om van vorm te veranderen, er zijn meerdere slangen", width/2-600/2, 575, [600]);
     
     // creation en styling button
     button = createButton("Klik hier om te starten!");
@@ -76,7 +79,7 @@ function requestAccess() {
   DeviceOrientationEvent.requestPermission().then((response) => {
     if (response == "granted") {
       permissionGranted = true;
-      background(65);
+      background(46, 46, 45);
       
     } else {
       textSize(39);
@@ -104,8 +107,8 @@ function draw() {
     mainSlang();
     secondSlang();
     thirdSlang();
-    food.display();    
-
+    fourthSlang();
+    food.display();  
     }
 }
 

@@ -98,12 +98,14 @@ Tot slot heb ik als extra ook een scherm ontwikkeld, voor wanneer de gebruiker h
 * `Link naar bron 6` Gyroscope: https://www.youtube.com/watch?v=b_dTHSQVOZM&ab_channel=GoogleChromeDevelopersGoogleChromeDevelopers
 * `Link naar bron 7` Gyroscope: https://www.youtube.com/watch?v=AbB9ayaffTc&t=89s&ab_channel=GoogleChromeDevelopersGoogleChromeDevelopersGeverifieerd
 * `Link naar bron 8` Onderwerpen: https://p5js.org/
+* `Link naar bron 9` Pulsing ellipse: https://editor.p5js.org/enickles/sketches/BJFD1cuRQ
+* `Link naar bron 10` Snake inspiratie: https://editor.p5js.org/Viv-Galinari/sketches/H1FqlMT5Z
+* `Link naar bron 10` Audio input inspiratie voor beweging input:https://www.youtube.com/watch?v=q2IDNkUws-A&t=313s&ab_channel=TheCodingTrainTheCodingTrain
 
 ## Inspiratie beelden & eigen werk
 ![image](https://user-images.githubusercontent.com/55742904/122688705-29f97c00-d21e-11eb-9b52-a336724983fc.png)
 ![image](https://user-images.githubusercontent.com/55742904/122688718-3e3d7900-d21e-11eb-8bb4-9110e4030d35.png)
 ![image](https://user-images.githubusercontent.com/55742904/122688731-4c8b9500-d21e-11eb-886e-22c17fb6365f.png)
-
 ![image](https://user-images.githubusercontent.com/55742904/115560095-8e4a9e80-a2b4-11eb-9e8e-41b805ac0d3d.png)
 ![image](https://user-images.githubusercontent.com/55742904/115560200-a7534f80-a2b4-11eb-8dcb-38528663dea8.png)
 ![image](https://user-images.githubusercontent.com/55742904/115560244-b0442100-a2b4-11eb-870f-8af40bbe9665.png)

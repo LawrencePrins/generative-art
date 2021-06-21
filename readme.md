@@ -109,6 +109,7 @@ In tegenstelling tot de laatste oplevering heb ik dit keer ook een videopresenta
 ![image](https://user-images.githubusercontent.com/55742904/122688705-29f97c00-d21e-11eb-9b52-a336724983fc.png)
 ![image](https://user-images.githubusercontent.com/55742904/122688718-3e3d7900-d21e-11eb-8bb4-9110e4030d35.png)
 ![image](https://user-images.githubusercontent.com/55742904/122688731-4c8b9500-d21e-11eb-886e-22c17fb6365f.png)
+Insipiratie beelden:
 ![image](https://user-images.githubusercontent.com/55742904/115560095-8e4a9e80-a2b4-11eb-9e8e-41b805ac0d3d.png)
 ![image](https://user-images.githubusercontent.com/55742904/115560200-a7534f80-a2b4-11eb-8dcb-38528663dea8.png)
 ![image](https://user-images.githubusercontent.com/55742904/115560244-b0442100-a2b4-11eb-870f-8af40bbe9665.png)

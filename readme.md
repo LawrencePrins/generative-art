@@ -47,10 +47,10 @@ De gebruiker moet een puzzel oplossen en creeërt daardoor op een spelende manie
 * Wanneer een slang een bepaalde positie behaald veranderd deze van kleur
 * (Snelheid) Hoe meer de gebruiker zijn scherm tilt/kantelt, hoe groter of kleiner de slang wordt
 * Wanneer gebruiker op het scherm tikt, veranderd de slang van vorm, kleur en beweging (dit kan meerdere keren)
-* Een snoepje die van positie veranderd wanneer een slang deze aanraakt (random positie)
-* Een snoepje dat van kleur veranderd wanneer deze van positie veranderd. 
-* Introductie scherm
-* 
+* Een snoepje (ellipse) die van positie veranderd wanneer een slang deze aanraakt (random positie)
+* Een snoepje (ellipse) dat van kleur veranderd wanneer deze van positie veranderd. 
+* Introductie scherm op mobile
+* Scherm op desktop dat aangeeft dat je de browser op een mobile device moet openen. 
 
 ## Onderzoek & inspiratie 
 `Schrijf wat over je onderzoek en je inspiratie voor het project. Hoe kwam je concept tot stand? (niet gekozen)` <br>
